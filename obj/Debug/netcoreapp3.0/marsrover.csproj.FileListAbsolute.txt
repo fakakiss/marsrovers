@@ -1,0 +1,12 @@
+C:\m45\marsrover\marsrover\bin\Debug\netcoreapp3.0\marsrover.exe
+C:\m45\marsrover\marsrover\bin\Debug\netcoreapp3.0\marsrover.deps.json
+C:\m45\marsrover\marsrover\bin\Debug\netcoreapp3.0\marsrover.runtimeconfig.json
+C:\m45\marsrover\marsrover\bin\Debug\netcoreapp3.0\marsrover.runtimeconfig.dev.json
+C:\m45\marsrover\marsrover\bin\Debug\netcoreapp3.0\marsrover.dll
+C:\m45\marsrover\marsrover\bin\Debug\netcoreapp3.0\marsrover.pdb
+C:\m45\marsrover\marsrover\obj\Debug\netcoreapp3.0\marsrover.csprojAssemblyReference.cache
+C:\m45\marsrover\marsrover\obj\Debug\netcoreapp3.0\marsrover.csproj.CoreCompileInputs.cache
+C:\m45\marsrover\marsrover\obj\Debug\netcoreapp3.0\marsrover.AssemblyInfoInputs.cache
+C:\m45\marsrover\marsrover\obj\Debug\netcoreapp3.0\marsrover.AssemblyInfo.cs
+C:\m45\marsrover\marsrover\obj\Debug\netcoreapp3.0\marsrover.dll
+C:\m45\marsrover\marsrover\obj\Debug\netcoreapp3.0\marsrover.pdb
